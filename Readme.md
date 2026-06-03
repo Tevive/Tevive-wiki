@@ -1,30 +1,43 @@
-# Tevive Wiki
+# Tevive
 
-Welcome to the official Tevive Wiki.
+Bring classic games back to life.
 
-This wiki serves as the central knowledge base and documentation hub for the Tevive project. Here you can find everything related to Tevive, including installation guides, development updates, project information, support resources, legal documentation, and community guidelines.
+Tevive is a platform focused on preserving, reviving, and making classic games accessible to modern players. Discover old favorites, explore game information, and experience gaming history in a modern way.
 
-Tevive is a platform dedicated to preserving, discovering, and reviving classic games. Our goal is to help keep gaming history alive while making timeless experiences more accessible to modern players. We believe that great games should never be forgotten and that future generations should be able to enjoy and learn about the games that shaped the industry.
+## Features
 
-This wiki is designed for everyone, whether you are a new user, an experienced community member, a contributor, or simply interested in learning more about the project.
+* Browse classic and retro games
+* Modern and clean interface
+* Fast game discovery
+* Community-driven improvements
+* Cross-platform support (planned)
 
-Inside this documentation, you will find information about supported games, upcoming features, planned improvements, development progress, release notes, troubleshooting guides, frequently asked questions, and project policies.
+## Mission
 
-The wiki will continue to grow alongside Tevive. New pages, guides, and resources will be added as the platform evolves and new features become available.
+Many great games become difficult to access over time. Tevive aims to help preserve gaming history and make it easier for players to rediscover classic titles.
 
-Community feedback plays an important role in the future of Tevive. Suggestions, bug reports, feature requests, and game requests help improve the project and guide future development.
+## Installation
 
-If you cannot find the information you are looking for, please visit the repository's Issues or Discussions section and reach out to the community or project maintainers.
+Download the latest release from the Releases section and follow the installation instructions for your platform.
 
-Thank you for supporting Tevive and helping us preserve gaming history for current and future generations.
+## License
+
+Tevive is proprietary software.
+
+You may use and share unmodified copies of the compiled application. The source code may not be copied, modified, redistributed, or used in other projects without explicit permission.
+
+See the EULA for complete terms.
+
+## Disclaimer
+
+Tevive is not affiliated with, endorsed by, or associated with any game publishers or copyright holders unless explicitly stated.
+
+All trademarks, game titles, and related assets belong to their respective owners.
+
+## Contact
+
+For questions, feedback, or business inquiries, please open an issue or contact the project owner.
 
 ---
 
-Current Version: 0.0.0.1 PHXUAL
-
-Project Status: Active Development
-
-License: Proprietary Software (EULA)
-
-Last Updated: 2026
-
+Made with ❤️ by Tevive
